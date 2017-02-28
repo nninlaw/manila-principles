@@ -1,4 +1,4 @@
-> ##### 馬尼拉原則繁體中文版 Traditional Chinese Version of the Manila Principles
+> #### 馬尼拉原則繁體中文版 Traditional Chinese Version of the Manila Principles
 >
 > 馬尼拉原則是 EFF 等單位倡議之中間人責任原則，儘管其官方網站有簡體中文版，但其中有些許錯誤，且用語與繁體中文不盡相同，故有此校對／翻譯計畫。
 >
